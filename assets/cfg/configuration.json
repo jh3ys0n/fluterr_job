@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://panel.mobile.clouds.com.bo/",
+  "firstColor": "#7b50dc",
+  "secondColor": "#597ae2", 
+  "appIdOneSignal": "xxxxxxxxx-xxxx-xxxx-xxx-xxxxxxxxxxx",
+  "defaultLanguage": "en",
+  "deeplink": "boliviahost.com"
+}
